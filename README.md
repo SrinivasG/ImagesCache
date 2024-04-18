@@ -1,7 +1,7 @@
 # ImagesCache
 In order to run the application, please follow the below steps
 1.	Ensure that you have installed latest XCode version in your Mac. I have used XCode 15.2 to create this assignment
-2.	Click and Open the **CacheImagesAssignment.xcodeproj** 
+2.	Click and Open the **CacheImagesAssignment.xcodeproj** from **CacheImagesAssignment** folder
  
 <img width="283" alt="image" src="https://github.com/SrinivasG/ImagesCache/assets/1043651/91f7c1a2-89e7-46b7-8710-fdf8b9a1cec9">
 
